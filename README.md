@@ -27,7 +27,9 @@
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Torbenn&repo=Torbenn&theme=react)](https://github.com/Torbenn/Torbenn)
 
 <div style="display: inline_block">
+  
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Torbenn&repo=Torbenn&theme=react)](https://github.com/Torbenn/Torbenn)
+  
   <br><a href="https://tryhackme.com/p/Noxid" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Noxid.png" alt="TryHackMe"></a>
 </div>
 
