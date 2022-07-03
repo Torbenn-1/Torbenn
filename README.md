@@ -1,7 +1,7 @@
 <h1> Hi! My name is Piter. </h1>
 
 <div>
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/Torbenn">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Torbenn&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
 
@@ -28,4 +28,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Torbenn&repo=Torbenn&theme=react)](https://github.com/Torbenn/Torbenn)
