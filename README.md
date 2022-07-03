@@ -20,6 +20,7 @@
  
     
 </div>
+  <br>
   <a href = "https://tryhackme.com/p/Noxid" target = "_blank"<img src="https://tryhackme-badges.s3.amazonaws.com/Noxid.png" alt="TryHackMe"></a>
   <a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
