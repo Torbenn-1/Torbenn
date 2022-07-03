@@ -27,7 +27,3 @@
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Torbenn&repo=Torbenn&theme=react)](https://github.com/Torbenn/Torbenn)
 
  
-</div>e-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
