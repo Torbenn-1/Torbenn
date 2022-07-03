@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/Torbenn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Torbenn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfsm&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Torbenn&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torbenn&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div> 
   <div style="display: inline_block" align="center"><br>
@@ -18,19 +18,23 @@
   
 <div  align="center">
   <br>
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
   <a href = "mailto: peter.noxid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/piter-torbenn-619797138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>  
 
 
-<div>
+<div style="display: inline_block">
   
   
+ 
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Torbenn&repo=Torbenn&theme=react)](https://github.com/Torbenn/Torbenn)
   
-
+ 
   
   <a href="https://tryhackme.com/p/Noxid" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Noxid.png" alt="TryHackMe"></a>
 
