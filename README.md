@@ -23,8 +23,12 @@
   <a href="https://www.linkedin.com/in/piter-torbenn-619797138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline_block">
+  
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Torbenn&repo=Torbenn&theme=react)](https://github.com/Torbenn/Torbenn)
 
-<div>
+  <br><a href="https://tryhackme.com/p/Noxid" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Noxid.png" alt="TryHackMe"></a>
+<div style="display: inline_block" align="center">
    [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Torbenn&repo=Torbenn&theme=react)](https://github.com/Torbenn/Torbenn)
 
   <br><a href="https://tryhackme.com/p/Noxid" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Noxid.png" alt="TryHackMe"></a>
