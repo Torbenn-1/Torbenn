@@ -1,8 +1,8 @@
 <h4>Whoami</h4>
 <h1> Hi! My name is Piter. </h1>
-<h2>Maker, Dev, Hacker</h2>
-<h2>knowledge must be shared</h2>
+<h4>Maker, Dev, Hacker</h4>
 
+<br>
 <div>
   <a href="https://github.com/Torbenn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Torbenn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
