@@ -1,5 +1,7 @@
+<h4>Whoami</h4>
 <h1> Hi! My name is Piter. </h1>
-
+<h2>Maker, Dev, Hacker</h2>
+<h2>knowledge must be shared</h2>
 
 <div>
   <a href="https://github.com/Torbenn">
