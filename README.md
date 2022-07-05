@@ -44,6 +44,6 @@
 
 </div>
 
-// aadd testes de badges
+
 
 
