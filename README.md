@@ -38,9 +38,7 @@
   
  
   
-
-  <a href="https://tryhackme.com/p/Noxid" target="_blank"><script src="https://tryhackme.com/badge/576831"></script></a>
-
+  <a href="https://tryhackme.com/p/Noxid" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/Noxid.png" alt="TryHackMe"></a>
 
 </div>
 
