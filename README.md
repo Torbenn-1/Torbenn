@@ -42,7 +42,7 @@
   
   
  
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Torbenn-1&repo=Torbenn-1&theme=react)](https://github.com/Torbenn-1/Torbenn)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Torbenn-1&repo=Torbenn-1&theme=react)](https://github.com/Torbenn-1/Torbenn-1)
   
  
   
