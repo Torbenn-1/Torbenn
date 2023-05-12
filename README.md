@@ -4,9 +4,9 @@
 
 <br>
 <div style="display: inline_block" align="center">
-  <a href="https://github.com/Torbenn-1-1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Torbenn-1-1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torbenn-1-1&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/Torbenn-1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Torbenn-1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torbenn-1&layout=compact&theme=tokyonight"/>
 </div>
 <div> 
   <div style="display: inline_block" align="center"><br>
