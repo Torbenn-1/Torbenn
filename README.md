@@ -22,6 +22,7 @@
   <img align="center" alt="C++" height="30" width="40" src="https://images.soqifu.com/prd/system/210206/ibm-security-qradar.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="SOAR" height="30" width="30" src="https://www.ibm.com/security/digital-assets/soar/how-to-be-a-soar-winner/styles/images/icons/ibm-1780-security-graphics-hacker@3x_1.png">
   
   </div>
 </div> 
